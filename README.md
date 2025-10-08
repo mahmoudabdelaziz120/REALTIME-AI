@@ -88,11 +88,7 @@ I can see a bottle
 Developed by **Mahmoud Abdelaziz El-Shahat**
 🎓 Mechatronics Engineer | AI & Robotics Enthusiast
 
----
 
-## 🏷️ License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and share.
 
 ---
 
